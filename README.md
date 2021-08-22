@@ -1,11 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Hongmin! 👋
 
 -----------------------------
-
-
-**honghyeong/honghyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,6 +10,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Languages and Tools
+----------------------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honghyeong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonghyeong&count_bg=%23CDFFA8&title_bg=%23555555&icon=instagram.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
