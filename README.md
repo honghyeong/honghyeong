@@ -1,6 +1,5 @@
 ### Hi there, I'm Hongmin! 👋
 
------------------------------
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,7 +11,6 @@
 - ⚡ Fun fact: ...
 
 ### Languages and Tools
-----------------------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honghyeong&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
