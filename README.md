@@ -41,6 +41,6 @@
   
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff3300?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZiK_zpSgIwnAQgEVYSTPaQ)](https://www.youtube.com/channel/UCZiK_zpSgIwnAQgEVYSTPaQ)
 
-[![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Youtube&logoColor=white&link=https:/https://blog.naver.com/ohhongmin)](https://blog.naver.com/ohhongmin)
+[![Naver Badge](https://img.shields.io/badge/Blog-03C75A?style=flat&logo=Naver&logoColor=white&link=https:/https://blog.naver.com/ohhongmin)](https://blog.naver.com/ohhongmin)
 
 </div> 
