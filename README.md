@@ -7,7 +7,7 @@
 <br>
 
 
-<h3 align="center"> 🐱 Languages </h3>
+<h3 align="center"> 🐱 Platform & Languages </h3>
            
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
