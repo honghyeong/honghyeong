@@ -1,5 +1,4 @@
 # Hi there, I'm Hongmin! 👋
--------------------------------------
 
 
 <h3>💪 I’m currently learning web backend, frontend & deeplearning NLP </h3>
