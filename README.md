@@ -1,4 +1,4 @@
-### Hi there, I'm Hongmin! 👋
+# Hi there, I'm Hongmin! 👋
 -------------------------------------
 
 
