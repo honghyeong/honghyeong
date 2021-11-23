@@ -49,7 +49,7 @@
   
 [![SoundCloud Badge](https://img.shields.io/badge/SoundCloud-ff3300?style=flat&logo=SoundCloud&logoColor=white&link=https://soundcloud.com/ohhongmin)](https://soundcloud.com/ohhongmin)
   
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff3300?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZiK_zpSgIwnAQgEVYSTPaQ)](https://www.youtube.com/channel/UCZiK_zpSgIwnAQgEVYSTPaQ)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff3300?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCtnXXh9EGx-y6mNzUnfDuRg/channels)](https://www.youtube.com/channel/UCtnXXh9EGx-y6mNzUnfDuRg/channels)
 
 [![Naver Badge](https://img.shields.io/badge/Blog-000000?style=flat&logo=StoryBlok&logoColor=white&link=https://ohhongmin.tistory.com/)](https://ohhongmin.tistory.com/)
 
