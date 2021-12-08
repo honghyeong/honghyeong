@@ -51,6 +51,7 @@
   
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff3300?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCtnXXh9EGx-y6mNzUnfDuRg/channels)](https://www.youtube.com/channel/UCtnXXh9EGx-y6mNzUnfDuRg/channels)
 
-[![Naver Badge](https://img.shields.io/badge/Blog-000000?style=flat&logo=StoryBlok&logoColor=white&link=https://5hongmin.tistory.com/)](https://5hongmin.tistory.com/)
+[![Naver Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=StoryBlok&logoColor=white&link=https://5hongmin.tistory.com/)](https://5hongmin.tistory.com/)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=StoryBlok&logoColor=white&link=https://blog.naver.com/ohhongmin/)](https://blog.naver.com/ohhongmin)
 
 </div> 
