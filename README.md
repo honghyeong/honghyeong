@@ -13,18 +13,23 @@
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
   <br>
-  <img src="https://img.shields.io/badge/-C++-00599C?logo=C"/>&nbsp
-  <img src="https://img.shields.io/badge/-PYTHON-3776AB?logo=Python"/>&nbsp
-  <img src="https://img.shields.io/badge/-JAVA-0F627C?logo=Java"/>&nbsp
+  <img src="https://img.shields.io/badge/-C++-ffffff?logo=C"/>&nbsp
+  <img src="https://img.shields.io/badge/-PYTHON-ffffff?logo=Python"/>&nbsp
+  <img src="https://img.shields.io/badge/-JAVA-ffffff?logo=Java"/>&nbsp
+  <img src="https://img.shields.io/badge/-TypeScript-ffffff?logo=Typescript"/>&nbsp
+  <img src="https://img.shields.io/badge/-Go-ffffff?logo=Go"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL"/>&nbsp
-  <img src="https://img.shields.io/badge/-php-ffffff?logo=PHP"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
-  <img src="https://img.shields.io/badge/-CSS3-1572b6?logo=CSS3"/>&nbsp
-  <img src="https://img.shields.io/badge/-JavaScript-eb6933?logo=JavaScript"/>&nbsp
-  <img src="https://img.shields.io/badge/-jQuery-0769ad?logo=jQuery"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS3-ffffff?logo=CSS3"/>&nbsp
   <br>
   <br>
+  <img src="https://img.shields.io/badge/-Spring-ffffff?logo=Spring"/>&nbsp
+  <img src="https://img.shields.io/badge/-NestJs-ffffff?logo=NestJs&logoColor=E0234E"/>&nbsp
+  <img src="https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL"/>&nbsp
+    <br>
+  <br>
+  <img src="https://img.shields.io/badge/-React-ffffff?logo=React"/>&nbsp
+  <img src="https://img.shields.io/badge/-NextJs-ffffff?logo=Next.js&logoColor=black"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-AWS-ffffff?logo=Amazon"/>&nbsp
