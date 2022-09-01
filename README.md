@@ -26,16 +26,19 @@
   <img src="https://img.shields.io/badge/-Spring-ffffff?logo=Spring"/>&nbsp
   <img src="https://img.shields.io/badge/-NestJs-ffffff?logo=NestJs&logoColor=E0234E"/>&nbsp
   <img src="https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL"/>&nbsp
-    <br>
+  <br>
   <br>
   <img src="https://img.shields.io/badge/-React-ffffff?logo=React"/>&nbsp
   <img src="https://img.shields.io/badge/-NextJs-ffffff?logo=Next.js&logoColor=black"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-AWS-ffffff?logo=Amazon"/>&nbsp
-  <img src="https://img.shields.io/badge/-git-ffffff?logo=git"/>&nbsp
+  <img src="https://img.shields.io/badge/-git-ffffff?logo=Git"/>&nbsp
+  <img src="https://img.shields.io/badge/-Github Actions-ffffff?logo=Github Actions&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-ffffff?logo=Docker"/>&nbsp
   <img src="https://img.shields.io/badge/-Pulumi-ffffff?logo=Pulumi&logoColor=8A3391"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nx-ffffff?logo=Nx&logoColor=143055"/>&nbsp
+  <img src="https://img.shields.io/badge/-Linux-ffffff?logo=Linux&logoColor=black"/>&nbsp
 </p>
 
 
