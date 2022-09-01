@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-AWS-ffffff?logo=Amazon"/>&nbsp
   <img src="https://img.shields.io/badge/-git-ffffff?logo=git"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-ffffff?logo=Docker"/>&nbsp
-  <img src="https://img.shields.io/badge/-jupyter-ffffff?logo=jupyter"/>&nbsp
+  <img src="https://img.shields.io/badge/-Pulumi-ffffff?logo=Pulumi&logoColor=8A3391"/>&nbsp
 </p>
 
 
