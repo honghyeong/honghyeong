@@ -1,12 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Backend%20Devops%20Engineer,%20Seokmin&fontSize=40)
 
-<p align="center">
+
+<div align="center">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adldotori)](https://github.com/honghyeong)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokmin-hong-a51626223/)](https://www.linkedin.com/in/adldotori/) 
 [![TechBlog Badge](https://img.shields.io/static/v1.svg?label=Tech%20&message=%20Blog&color=black)](https://5hongmin.tistory.com/.com/)
 
-</p>
+</div>
+
 
 <h3 align="center"> Tech Stack </h3>
 <p align="center">
@@ -32,7 +34,7 @@
 </p>
 
 
-<div style="text-align:center;">
+<div align="center">
 
 [![honghyeong's github stats](https://github-readme-stats.vercel.app/api?username=honghyeong&show_icons=true)](https://github-readme-stats.vercel.app/api?username=honghyeong)
 
