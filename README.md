@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/adldotori)](https://github.com/honghyeong)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokmin-hong-a51626223/)](https://www.linkedin.com/in/seokmin-hong-a51626223/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seokmin-hong-a51626223/)](https://www.linkedin.com/in/adldotori/) 
 [![TechBlog Badge](https://img.shields.io/static/v1.svg?label=Tech%20&message=%20Blog&color=black)](https://5hongmin.tistory.com/.com/)
 
 </div>
@@ -38,6 +38,8 @@
 
 [![honghyeong's github stats](https://github-readme-stats.vercel.app/api?username=honghyeong&show_icons=true)](https://github-readme-stats.vercel.app/api?username=honghyeong)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hooongover)](https://solved.ac/hooongover)
+  
 </div>
 
 ![wave](https://capsule-render.vercel.app/api?section=footer&type=waving&color=timeGradient&height=200)
