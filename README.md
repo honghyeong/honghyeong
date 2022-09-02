@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-Go-ffffff?logo=Go"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
-  <img src="https://img.shields.io/badge/-CSS3-ffffff?logo=CSS3"/>&nbsp
+  <img src="https://img.shields.io/badge/-CSS3-ffffff?logo=CSS3&logoColor=blue"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Spring-ffffff?logo=Spring"/>&nbsp
