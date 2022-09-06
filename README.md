@@ -50,7 +50,7 @@
 
 [![honghyeong's github stats](https://github-readme-stats.vercel.app/api?username=honghyeong&show_icons=true)](https://github-readme-stats.vercel.app/api?username=honghyeong)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hooongover)](https://solved.ac/hooongover)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jungin0507)](https://solved.ac/jungin0507)
   
 </div>
 
