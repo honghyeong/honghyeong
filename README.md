@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/-Spring-ffffff?logo=Spring"/>&nbsp
   <img src="https://img.shields.io/badge/-NestJs-ffffff?logo=NestJs&logoColor=E0234E"/>&nbsp
   <img src="https://img.shields.io/badge/-PostgreSQL-ffffff?logo=PostgreSQL"/>&nbsp
+  <img src="https://img.shields.io/badge/-gRPC-ffffff?"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-React-ffffff?logo=React"/>&nbsp
