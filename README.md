@@ -11,8 +11,13 @@
 [![SoundCloud Badge](https://img.shields.io/badge/-SoundCloud-FF3300?logo=SoundCloud&logoColor=white&link=https://soundcloud.com/ohhongmin)](https://soundcloud.com/ohhongmin)
 <br>
 
-[![CV Badge](https://img.shields.io/static/v1.svg?label=KR%20&message=%20CV&color=black)](https://github.com/honghyeong/cv/tree/main/KR)
-[![CV Badge](https://img.shields.io/static/v1.svg?label=EN%20&message=%20CV&color=black)](https://github.com/honghyeong/cv/tree/main/EN)
+[![CV Badge](https://img.shields.io/static/v1.svg?label=CV%20&message=%20KR&color=white)](https://github.com/honghyeong/cv/tree/main/KR)
+[![CV Badge](https://img.shields.io/static/v1.svg?label=CV%20&message=%20EN&color=white)](https://github.com/honghyeong/cv/tree/main/EN)
+
+
+[![Devkor Badge](https://img.shields.io/static/v1.svg?label=CLUB%20&message=%20Devkor&color=orange)](https://github.com/DevKor-Team)
+[![KWEB Badge](https://img.shields.io/static/v1.svg?label=CLUB%20&message=%20KWEB&color=blue)](https://kwebofficial.com/)
+[![KUBIG Badge](https://img.shields.io/static/v1.svg?label=CLUB%20&message=%20KUBIG&color=red)](https://github.com/KU-BIG)
 </div>
 
 <br>
