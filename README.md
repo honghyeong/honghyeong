@@ -10,7 +10,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&link=https://www.instagram.com/ohhongmin)](https://www.instagram.com/ohhongmin)
 [![SoundCloud Badge](https://img.shields.io/badge/-SoundCloud-FF3300?logo=SoundCloud&logoColor=white&link=https://soundcloud.com/ohhongmin)](https://soundcloud.com/ohhongmin)
 <br>
-
+<br>
+[![TODO Badge](https://img.shields.io/badge/-TODO-white?logo=Verizon&logoColor=green&link=https://soundcloud.com/ohhongmin)](https://soundcloud.com/ohhongmin)
+<br>
 [![CV Badge](https://img.shields.io/static/v1.svg?label=CV%20&message=%20KR&color=white)](https://github.com/honghyeong/cv/tree/main/KR)
 [![CV Badge](https://img.shields.io/static/v1.svg?label=CV%20&message=%20EN&color=white)](https://github.com/honghyeong/cv/tree/main/EN)
 
