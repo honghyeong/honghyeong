@@ -32,9 +32,10 @@
   <img src="https://img.shields.io/badge/-C++-ffffff?logo=C"/>&nbsp
   <img src="https://img.shields.io/badge/-PYTHON-ffffff?logo=Python"/>&nbsp
   <img src="https://img.shields.io/badge/-JAVA-ffffff?logo=Java"/>&nbsp
-  <img src="https://img.shields.io/badge/-TypeScript-ffffff?logo=Typescript"/>&nbsp
+  <img src="https://img.shields.io/badge/-Typescript-ffffff?logo=Typescript"/>&nbsp
   <img src="https://img.shields.io/badge/-Go-ffffff?logo=Go"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/-Javascript-ffffff?logo=Javascript"/>&nbsp
   <img src="https://img.shields.io/badge/-HTML5-ffffff?logo=HTML5"/>&nbsp
   <img src="https://img.shields.io/badge/-CSS3-ffffff?logo=CSS3&logoColor=blue"/>&nbsp
   <br>
