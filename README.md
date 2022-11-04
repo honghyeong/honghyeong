@@ -51,7 +51,7 @@
   <br>
   <br>
   <img src="https://img.shields.io/badge/-React-ffffff?logo=React"/>&nbsp
-  <img src="https://img.shields.io/badge/-NextJs-ffffff?logo=Next.js&logoColor=black"/>&nbsp
+<!--   <img src="https://img.shields.io/badge/-NextJs-ffffff?logo=Next.js&logoColor=black"/>&nbsp -->
   <br>
   <br>
   <img src="https://img.shields.io/badge/-AWS-ffffff?logo=Amazon"/>&nbsp
