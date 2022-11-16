@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Backend%20Devops%20Engineer,%20Seokmin&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Server%20%2F%20Devops%20Engineer,%20Seokmin&fontSize=40)
 
 
 <div align="center">
